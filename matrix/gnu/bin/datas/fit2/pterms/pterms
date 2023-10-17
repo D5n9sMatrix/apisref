@@ -1,0 +1,4 @@
+x
+sex 0
+pspline(agef, df = 3) 1
+pspline(agem, df = 3) 1
